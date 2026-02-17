@@ -1,3 +1,1 @@
-README
-
-This repository is created for my coding test
+Coding Test Exercise from Baekjoon
